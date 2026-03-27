@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "Hakkımda",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, ben",
+    "name": "Kaan Kapsız",
+    "subtitle": "16 yaşında yazılım geliştirici. Modern web teknolojileriyle gerçek dünya projeleri inşa ediyorum.",
+    "cta_projects": "Projelerimi Gör",
+    "cta_contact": "İletişime Geç",
+    "scroll": "Aşağı kaydır"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "bio": "Eskişehir'de yaşayan, Bahçeşehir Koleji'nde 11. sınıf öğrencisi olan Kaan, kod yazmayı bir tutku olarak benimseyen genç bir yazılım geliştiricisidir. Yurt dışında üniversite okuma hedefiyle uluslararası sınavlara hazırlanırken aynı zamanda freelance projeler geliştirerek gerçek dünya deneyimi kazanmaktadır.",
+    "location": "Eskişehir, Türkiye",
+    "school": "Bahçeşehir Koleji — 11. Sınıf",
+    "stats": {
+      "projects": "5+ Proje",
+      "technologies": "10+ Teknoloji",
+      "age": "16 Yaşında"
+    }
+  },
+  "skills": {
+    "title": "Yetenekler",
+    "subtitle": "Çalıştığım teknolojiler ve araçlar",
+    "languages": "Diller",
+    "frameworks": "Framework & Kütüphaneler",
+    "tools": "Araçlar"
+  },
+  "projects": {
+    "title": "Projeler",
+    "subtitle": "Üzerinde çalıştığım bazı projeler",
+    "view_code": "Kodu Gör",
+    "items": {
+      "subtrack": {
+        "title": "SubTrack-App",
+        "description": "Bulut tabanlı abonelik takip uygulaması. Firebase altyapısıyla aboneliklerinizi kolayca yönetin."
+      },
+      "cvmaster": {
+        "title": "CV Master",
+        "description": "Yapay zeka destekli CV analiz SaaS platformu. CV'lerinizi akıllıca değerlendirin."
+      },
+      "devteam": {
+        "title": "Developer Team Website",
+        "description": "Bir geliştirici grubu için modern ve şık takım tanıtım sitesi."
+      },
+      "ctextui": {
+        "title": "c-textui",
+        "description": "Cayci Development tarafından geliştirilen ücretsiz text UI kütüphanesi."
+      },
+      "cgivecar": {
+        "title": "c-givecar",
+        "description": "Ücretsiz givecar modülü. Oyun scripting için Lua tabanlı araç."
+      }
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bir projeniz mi var? Birlikte çalışalım.",
+    "name_label": "İsim",
+    "name_placeholder": "Adınız",
+    "email_label": "E-posta",
+    "email_placeholder": "ornek@mail.com",
+    "message_label": "Mesaj",
+    "message_placeholder": "Mesajınızı yazın...",
+    "send": "Gönder",
+    "sending": "Gönderiliyor...",
+    "success": "Mesajınız başarıyla gönderildi!",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin."
+  },
+  "footer": {
+    "built_by": "Kaan Kapsız tarafından tasarlandı ve geliştirildi"
+  }
+}

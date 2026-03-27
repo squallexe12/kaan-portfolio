@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Kaan Kapsız",
+    "subtitle": "A 16-year-old developer building real-world projects with modern web technologies.",
+    "cta_projects": "View Projects",
+    "cta_contact": "Get in Touch",
+    "scroll": "Scroll down"
+  },
+  "about": {
+    "title": "About Me",
+    "bio": "Kaan is a 16-year-old self-driven developer from Eskişehir, Turkey, currently attending Bahçeşehir Koleji as an 11th-grade student. With a dream of studying abroad, he balances exam prep with building real-world freelance projects using React, TypeScript, and modern web technologies.",
+    "location": "Eskişehir, Turkey",
+    "school": "Bahçeşehir Koleji — 11th Grade",
+    "stats": {
+      "projects": "5+ Projects",
+      "technologies": "10+ Technologies",
+      "age": "16 Years Old"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Technologies and tools I work with",
+    "languages": "Languages",
+    "frameworks": "Frameworks & Libraries",
+    "tools": "Tools"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Some of the projects I've been working on",
+    "view_code": "View Code",
+    "items": {
+      "subtrack": {
+        "title": "SubTrack-App",
+        "description": "Cloud-based subscription tracker. Manage your subscriptions easily with Firebase infrastructure."
+      },
+      "cvmaster": {
+        "title": "CV Master",
+        "description": "AI-Powered CV Analysis SaaS Platform. Evaluate your resumes intelligently."
+      },
+      "devteam": {
+        "title": "Developer Team Website",
+        "description": "A modern and sleek team showcase website for a developer group."
+      },
+      "ctextui": {
+        "title": "c-textui",
+        "description": "Free text UI library developed by Cayci Development."
+      },
+      "cgivecar": {
+        "title": "c-givecar",
+        "description": "Free givecar module. A Lua-based tool for game scripting."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's work together.",
+    "name_label": "Name",
+    "name_placeholder": "Your name",
+    "email_label": "Email",
+    "email_placeholder": "example@mail.com",
+    "message_label": "Message",
+    "message_placeholder": "Write your message...",
+    "send": "Send",
+    "sending": "Sending...",
+    "success": "Your message has been sent successfully!",
+    "error": "An error occurred. Please try again."
+  },
+  "footer": {
+    "built_by": "Designed and built by Kaan Kapsız"
+  }
+}
